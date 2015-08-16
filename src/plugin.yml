@@ -1,0 +1,8 @@
+name: KevinProtect
+version: Alpha
+main: kevinprotect.main
+commands:
+  protect:
+    description: /protect help
+    permission: kevinprotect.use
+  
